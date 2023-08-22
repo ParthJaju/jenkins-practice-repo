@@ -1,2 +1,2 @@
-# jenkins-practice-repo
+# Jenkins Practice Repository
 Jenkins practicing repository for college assignments
